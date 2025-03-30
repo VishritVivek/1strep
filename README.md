@@ -4,3 +4,7 @@ print("ADDITION ",a+b)
 print("SUBTRACTION ",a-b)
 print("MULTIPLICATION ",a*b)
 print("DIVISION ",a/b)
+
+a=str(input("YOUR FIRST NAME : "))
+b=str(input("YOUR LAST NAME : "))
+print(a,b,"WELCOME TO OUR PROGRAMME")
